@@ -1,0 +1,4 @@
+T - Time punctual
+I - Improve
+D - Deterministic
+A - Accurate
